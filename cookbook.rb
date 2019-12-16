@@ -7,7 +7,8 @@ end
 def menu
 puts '[1] Cadastrar uma receita'
 puts '[2] Ver todas as receitas'
-puts '[3] Sair'
+puts '[3] Pesquisar receitas por nome'
+puts '[4] Sair'
 
 print 'Escolha uma opção: '
 gets.to_i
